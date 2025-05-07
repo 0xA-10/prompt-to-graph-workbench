@@ -14,11 +14,6 @@ Created with ChatGPT (o3 for plans, o4-mini-high for code): https://chatgpt.com/
 
 1. **Clone the repo**
 
-   ```bash
-   git clone [https://github.com/your-org/prompt-to-graph-workbench.git](https://github.com/0xA-10/prompt-to-graph-workbench.git)
-   cd prompt-to-graph-workbench
-   ```
-
 2. **Install dependencies**
    ```bash
    npm install
