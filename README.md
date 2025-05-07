@@ -109,9 +109,9 @@ npm run demo:catalog
 
 Simulates a streaming service catalog search:
 
-- **Sci‑fi comedy** with Tom Hanks & high rating.
-- **2010s thriller** with female lead and runtime < 2h.
-- **Family‑friendly animation** recommendations excluding “Toy Story.”
+- Sci‑fi comedy with Tom Hanks & high rating.
+- 2010s thriller with female lead and runtime < 2h.
+- Family‑friendly animation recommendations
 
 Prompts map to GraphQL filters (`genres_INCLUDES`,`actors_SOME`,`runtime_LT`,`gender`).
 
