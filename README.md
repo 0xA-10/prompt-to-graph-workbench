@@ -69,8 +69,6 @@ The server listens on **[http://localhost:4000/graphql](http://localhost:4000/gr
 
 Each demo script runs its own ETL (overwriting data), starts the server, generates queries via OpenAI, and prints results.
 
-Warning!!! These prompts cost a lot of money to run, $2-$3 per run at time of writing.
-
 ### 1. Basic Pipeline
 
 ```bash
