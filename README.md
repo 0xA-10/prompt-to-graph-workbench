@@ -2,8 +2,6 @@
 
 A toolkit that converts natural-language prompts into executable GraphQL queries over a Neo4j knowledge graph. It provides ETL scripts, an Apollo/Neo4jGraphQL server with custom queries, and three demo pipelines showcasing its capabilities.
 
-Created with ChatGPT (o3 for plans, o4-mini-high for code): https://chatgpt.com/share/681b14ca-3804-8001-a8a3-fdc04476854a
-
 ## Prerequisites
 
 - **Node.js** v16+ and npm
