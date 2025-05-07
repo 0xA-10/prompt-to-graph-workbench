@@ -1,0 +1,53 @@
+# GraphQL schema for Movie domain
+
+type Movie {
+	id: ID! @id
+	title: String! @unique
+	year: Int
+	actors: [Person!]! @relationship(type: "ACTED_IN", direction: IN)
+	director: Person @relationship(type: "DIRECTED", direction: IN)
+	genres: [String]
+	rating: Float
+	synopsis: String
+	runtime: Int
+}
+
+type Person {
+	id: ID! @id
+	name: String! @unique
+	born: Int
+	movies: [Movie!]! @relationship(type: "ACTED_IN", direction: OUT)
+	gender: String
+	directed: [Movie!]! @relationship(type: "DIRECTED", direction: OUT)
+}
+
+type Mapping {
+	id: String!
+	prompt: String!
+	gql: String!
+}
+
+type TranslationPayload {
+	graphql: String!
+	mapping: [Mapping!]!
+}
+
+# Base Mutation type (required before extending)
+type Mutation {
+	_empty: Boolean
+}
+
+extend type Mutation {
+	translateExplain(prompt: String!): TranslationPayload!
+}
+
+# Base Query type (required before extending)
+type Query {
+	_empty: Boolean
+}
+extend type Query {
+	"""
+	Find up to topK movies semantically similar to the given query string.
+	"""
+	semanticSearchMovies(query: String!, topK: Int = 5): [Movie!]!
+}

@@ -1,0 +1,276 @@
+[
+    {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "actors": [
+            {
+                "name": "Tom Hanks",
+                "born": 1956,
+                "gender": "male"
+            },
+            {
+                "name": "Robin Wright",
+                "born": 1966,
+                "gender": "female"
+            }
+        ],
+        "director": "Robert Zemeckis",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "rating": 8.8,
+        "synopsis": "The presidencies of Kennedy and Johnson, the Vietnam War, and more, seen through the eyes of Forrest, who has a low IQ but good intentions."
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "actors": [
+            {
+                "name": "Leonardo DiCaprio",
+                "born": 1974,
+                "gender": "male"
+            },
+            {
+                "name": "Kate Winslet",
+                "born": 1975,
+                "gender": "female"
+            }
+        ],
+        "director": "James Cameron",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "rating": 7.8,
+        "synopsis": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated RMS Titanic."
+    },
+    {
+        "title": "Romeo + Juliet",
+        "year": 1996,
+        "actors": [
+            {
+                "name": "Leonardo DiCaprio",
+                "born": 1974,
+                "gender": "male"
+            },
+            {
+                "name": "Claire Danes",
+                "born": 1979,
+                "gender": "female"
+            }
+        ],
+        "director": "Baz Luhrmann",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "rating": 6.7,
+        "synopsis": "A modern take on Shakespeare's tragedy, featuring star-crossed lovers in a fast-paced, stylized environment."
+    },
+    {
+        "title": "Good Will Hunting",
+        "year": 1997,
+        "actors": [
+            {
+                "name": "Matt Damon",
+                "born": 1970,
+                "gender": "male"
+            },
+            {
+                "name": "Robin Williams",
+                "born": 1951,
+                "gender": "male"
+            }
+        ],
+        "director": "Gus Van Sant",
+        "genres": [
+            "Drama"
+        ],
+        "rating": 8.3,
+        "synopsis": "A janitor at MIT has a gift for mathematics but needs a psychologist to help him find direction in his life."
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 1993,
+        "actors": [
+            {
+                "name": "Sam Neill",
+                "born": 1947,
+                "gender": "male"
+            },
+            {
+                "name": "Laura Dern",
+                "born": 1967,
+                "gender": "female"
+            }
+        ],
+        "director": "Steven Spielberg",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "rating": 8.1,
+        "synopsis": "Dinosaurs are brought back to life on a remote island theme park, but when the security systems fail, chaos ensues."
+    },
+    {
+        "title": "Inception",
+        "year": 2010,
+        "actors": [
+            {
+                "name": "Leonardo DiCaprio",
+                "born": 1974,
+                "gender": "male"
+            },
+            {
+                "name": "Joseph Gordon-Levitt",
+                "born": 1981,
+                "gender": "male"
+            }
+        ],
+        "director": "Christopher Nolan",
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "rating": 8.8,
+        "synopsis": "A thief enters the dreams of others to steal secrets but is tasked with planting an idea into a target's mind."
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "actors": [
+            {
+                "name": "Keanu Reeves",
+                "born": 1964,
+                "gender": "male"
+            },
+            {
+                "name": "Laurence Fishburne",
+                "born": 1961,
+                "gender": "male"
+            }
+        ],
+        "director": "The Wachowskis",
+        "genres": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "rating": 8.7,
+        "synopsis": "A hacker discovers reality is a simulation and joins a rebellion to fight its controllers."
+    },
+    {
+        "title": "Blade Runner",
+        "year": 1982,
+        "actors": [
+            {
+                "name": "Harrison Ford",
+                "born": 1942,
+                "gender": "male"
+            },
+            {
+                "name": "Rutger Hauer",
+                "born": 1944,
+                "gender": "male"
+            }
+        ],
+        "director": "Ridley Scott",
+        "genres": [
+            "Sci-Fi",
+            "Neo-Noir"
+        ],
+        "rating": 8.1,
+        "synopsis": "A blade runner hunts down escaped synthetic humans in a dystopian Los Angeles."
+    },
+    {
+        "title": "Blade Runner 2049",
+        "year": 2017,
+        "actors": [
+            {
+                "name": "Ryan Gosling",
+                "born": 1980,
+                "gender": "male"
+            },
+            {
+                "name": "Harrison Ford",
+                "born": 1942,
+                "gender": "male"
+            }
+        ],
+        "director": "Denis Villeneuve",
+        "genres": [
+            "Sci-Fi",
+            "Drama"
+        ],
+        "rating": 8.0,
+        "synopsis": "A new blade runner uncovers a secret that could plunge what's left of society into chaos."
+    },
+    {
+        "title": "The Post",
+        "year": 2017,
+        "actors": [
+            {
+                "name": "Meryl Streep",
+                "born": 1949,
+                "gender": "female"
+            },
+            {
+                "name": "Tom Hanks",
+                "born": 1956,
+                "gender": "male"
+            }
+        ],
+        "director": "Steven Spielberg",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "rating": 7.2,
+        "synopsis": "A cover-up that spanned decades pits a newspaper publisher and her editor against the government."
+    },
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "actors": [
+            {
+                "name": "Sam Worthington",
+                "born": 1976,
+                "gender": "male"
+            },
+            {
+                "name": "Zoe Saldana",
+                "born": 1978,
+                "gender": "female"
+            }
+        ],
+        "director": "James Cameron",
+        "genres": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "rating": 7.8,
+        "synopsis": "A marine on an alien planet becomes torn between following orders and protecting an alien civilization."
+    },
+    {
+        "title": "Fight Club",
+        "year": 1999,
+        "actors": [
+            {
+                "name": "Brad Pitt",
+                "born": 1963,
+                "gender": "male"
+            },
+            {
+                "name": "Edward Norton",
+                "born": 1969,
+                "gender": "male"
+            }
+        ],
+        "director": "David Fincher",
+        "genres": [
+            "Drama"
+        ],
+        "rating": 8.8,
+        "synopsis": "An office worker forms an underground fight club with a soap maker, leading to unexpected chaos."
+    }
+]

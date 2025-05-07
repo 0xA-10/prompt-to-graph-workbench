@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Toy Story",
+        "year": 1995,
+        "actors": [
+            {
+                "name": "Tom Hanks",
+                "born": 1956,
+                "gender": "male"
+            },
+            {
+                "name": "Tim Allen",
+                "born": 1953,
+                "gender": "male"
+            }
+        ],
+        "director": "John Lasseter",
+        "genres": [
+            "Animation",
+            "Family"
+        ],
+        "rating": 8.3,
+        "synopsis": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+        "runtime": 81,
+        "imdbScore": 8.3
+    },
+    {
+        "title": "Blade Runner",
+        "year": 1982,
+        "actors": [
+            {
+                "name": "Harrison Ford",
+                "born": 1942,
+                "gender": "male"
+            },
+            {
+                "name": "Rutger Hauer",
+                "born": 1944,
+                "gender": "male"
+            }
+        ],
+        "director": "Ridley Scott",
+        "genres": [
+            "Sci-Fi",
+            "Neo-Noir"
+        ],
+        "rating": 8.1,
+        "synopsis": "A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.",
+        "runtime": 117,
+        "imdbScore": 8.1
+    },
+    {
+        "title": "Galactic Giggles",
+        "year": 2022,
+        "actors": [
+            {
+                "name": "Tom Hanks",
+                "born": 1956,
+                "gender": "male"
+            },
+            {
+                "name": "Zendaya",
+                "born": 1996,
+                "gender": "female"
+            }
+        ],
+        "director": "Jane Doe",
+        "genres": [
+            "Sci-Fi",
+            "Comedy"
+        ],
+        "rating": 8.5,
+        "synopsis": "An interstellar road trip comedy where two unlikely heroes accidentally save the galaxy with humor and heart.",
+        "runtime": 112,
+        "imdbScore": 8.5
+    },
+    {
+        "title": "10 Cloverfield Lane",
+        "year": 2016,
+        "actors": [
+            {
+                "name": "Mary Elizabeth Winstead",
+                "born": 1984,
+                "gender": "female"
+            },
+            {
+                "name": "John Goodman",
+                "born": 1952,
+                "gender": "male"
+            }
+        ],
+        "director": "Dan Trachtenberg",
+        "genres": [
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "rating": 7.2,
+        "synopsis": "After a car crash, a woman is held in a shelter by a man who claims the outside world is uninhabitable.",
+        "runtime": 104,
+        "imdbScore": 7.2
+    },
+    {
+        "title": "Cloudy with a Chance of Meatballs",
+        "year": 2009,
+        "actors": [
+            {
+                "name": "Bill Hader",
+                "born": 1978,
+                "gender": "male"
+            },
+            {
+                "name": "Anna Faris",
+                "born": 1976,
+                "gender": "female"
+            }
+        ],
+        "director": "Phil Lord",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ],
+        "rating": 7.0,
+        "synopsis": "Inventor Flint Lockwood's latest experiment sends food from the sky, turning a small town into a delicious disaster zone.",
+        "runtime": 90,
+        "imdbScore": 7.0
+    }
+]
