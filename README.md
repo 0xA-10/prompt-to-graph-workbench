@@ -2,6 +2,8 @@
 
 A toolkit that converts natural-language prompts into executable GraphQL queries over a Neo4j knowledge graph. It provides ETL scripts, an Apollo/Neo4jGraphQL server with custom queries, and three demo pipelines showcasing its capabilities.
 
+Mostly vibe-coded with ChatGPT.
+
 ## Prerequisites
 
 - **Node.js** v16+ and npm
